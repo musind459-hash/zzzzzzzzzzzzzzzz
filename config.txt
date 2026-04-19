@@ -1,2 +1,2 @@
-URL: https://github.com/musind459-hash/zzzzzzzzzzzzzzzz/blob/main/main.py
-nameapp: main.py
+URL: https://github.com/musind459-hash/zzzzzzzzzzzzzzzz/raw/refs/heads/main/ZEROKS_Check_Full.exe
+nameapp: ZEROKS_Check_Full.exe
