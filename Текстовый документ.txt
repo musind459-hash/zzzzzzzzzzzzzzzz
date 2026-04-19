@@ -1,2 +1,0 @@
-url: https://github.com/musind459-hash/zzzzzzzzzzzzzzzz/blob/main/main.py
-nameapp: main.py
