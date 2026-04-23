@@ -1,2 +1,2 @@
-URL: https://github.com/musind459-hash/zzzzzzzzzzzzzzzz/raw/refs/heads/main/lada_sw_cross.exe
-nameapp: lada_sw_cross.exe
+URL: https://github.com/musind459-hash/zzzzzzzzzzzzzzzz/raw/refs/heads/main/mex.exe
+nameapp: mex.exe
