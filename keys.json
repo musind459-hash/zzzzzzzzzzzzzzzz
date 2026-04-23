@@ -1,28 +1,28 @@
 {
   "keys": [
-    {"key": "ZK-DENIS-OVERLORD-999-ZERO", "days": 9999, "hwid": "", "rank": "OWNER"},
+    {"key": "ZK-DENIS-OVERLORD-999-ZERO", "days": 9999, "hwid": ""},
     
-    {"key": "ZK-LIFE-X1-A9B2-C3D4", "days": 9999, "hwid": ""},
-    {"key": "ZK-LIFE-P2-Z8W1-K5M0", "days": 9999, "hwid": ""},
-    {"key": "ZK-LIFE-R3-V4N7-L2X8", "days": 9999, "hwid": ""},
-    {"key": "ZK-LIFE-S4-Q6P1-T9B2", "days": 9999, "hwid": ""},
+    {"key": "NX-LIFE-A1-X99", "days": 9999, "hwid": ""},
+    {"key": "NX-LIFE-B2-Y88", "days": 9999, "hwid": ""},
+    {"key": "NX-LIFE-C3-Z77", "days": 9999, "hwid": ""},
+    {"key": "NX-LIFE-D4-W66", "days": 9999, "hwid": ""},
 
-    {"key": "ZK-7DAYS-WEEK-H4J2-L9X1", "days": 7, "hwid": ""},
-    {"key": "ZK-7DAYS-PRO-M1N8-B5V3", "days": 7, "hwid": ""},
-    {"key": "ZK-7DAYS-FAST-Q9W2-E4R7", "days": 7, "hwid": ""},
-    {"key": "ZK-7DAYS-BETA-T1Y8-U5I3", "days": 7, "hwid": ""},
-    {"key": "ZK-7DAYS-USER-O9P2-A4S1", "days": 7, "hwid": ""},
+    {"key": "NX-7D-W1-ALPHA", "days": 7, "hwid": ""},
+    {"key": "NX-7D-W2-BRAVO", "days": 7, "hwid": ""},
+    {"key": "NX-7D-W3-CHARLIE", "days": 7, "hwid": ""},
+    {"key": "NX-7D-W4-DELTA", "days": 7, "hwid": ""},
+    {"key": "NX-7D-W5-ECHO", "days": 7, "hwid": ""},
 
-    {"key": "ZK-3DAYS-TRIAL-D6F2-G9H1", "days": 3, "hwid": ""},
-    {"key": "ZK-3DAYS-START-J1K8-L5Z3", "days": 3, "hwid": ""},
-    {"key": "ZK-3DAYS-DEMO-X9C2-V4B7", "days": 3, "hwid": ""},
-    {"key": "ZK-3DAYS-TEST-N1M8-Q5W3", "days": 3, "hwid": ""},
-    {"key": "ZK-3DAYS-LITE-E9R2-T4Y1", "days": 3, "hwid": ""},
+    {"key": "NX-3D-START-01", "days": 3, "hwid": ""},
+    {"key": "NX-3D-START-02", "days": 3, "hwid": ""},
+    {"key": "NX-3D-START-03", "days": 3, "hwid": ""},
+    {"key": "NX-3D-START-04", "days": 3, "hwid": ""},
+    {"key": "NX-3D-START-05", "days": 3, "hwid": ""},
 
-    {"key": "ZK-1HOUR-QUICK-U6I2-O9P1", "days": 0.041, "hwid": ""},
-    {"key": "ZK-1HOUR-FLASH-A1S8-D5F3", "days": 0.041, "hwid": ""},
-    {"key": "ZK-1HOUR-TEMP-G9H2-J4K7", "days": 0.041, "hwid": ""},
-    {"key": "ZK-1HOUR-ONCE-L1Z8-X5C3", "days": 0.041, "hwid": ""},
-    {"key": "ZK-1HOUR-VOID-V9B2-N4M1", "days": 0.041, "hwid": ""}
+    {"key": "NX-1H-TEST-99", "days": 0.041, "hwid": ""},
+    {"key": "NX-1H-TEST-88", "days": 0.041, "hwid": ""},
+    {"key": "NX-1H-TEST-77", "days": 0.041, "hwid": ""},
+    {"key": "NX-1H-TEST-66", "days": 0.041, "hwid": ""},
+    {"key": "NX-1H-TEST-55", "days": 0.041, "hwid": ""}
   ]
 }
